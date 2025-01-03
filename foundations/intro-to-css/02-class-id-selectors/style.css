@@ -1,0 +1,19 @@
+
+.c-1 {
+    font-family: JetBrains Mono, monospace;
+    font-size : 1.5rem;
+}
+
+#id-1 {
+    color: #ff0000;
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#id-2 {
+    color: #0000ff;
+    background-color: #f0f0f0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+

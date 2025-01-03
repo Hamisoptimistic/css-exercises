@@ -1,0 +1,14 @@
+
+.c1, .c2 {
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.c1 {
+    color: #FF0000;
+    background-color: black;
+}
+
+.c2 {
+    color: purple;
+    background-color:  #FFD700;  
+}

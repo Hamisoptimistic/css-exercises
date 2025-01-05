@@ -46,3 +46,26 @@ div.text {
   font-size: 22px;
   font-weight: 100;
 }
+
+.box{
+  background-color: lightseagreen;
+  color:white;
+  font-size: 20px;
+  /* font-weight: 800; */
+  margin: 10px;
+  height:auto;
+  display: flex;
+  /* justify-content: center; */
+  
+}
+
+.para1 {
+  color : maroon;
+  border: 3px solid black;
+  width:  100px;
+  height: 50px;
+  text-align: center;
+  margin: auto;
+  padding: 50px;
+  display: inline;
+}

@@ -18,14 +18,15 @@ body {
 } */
 
 .para.small-para {
-  font-size:14px;
+  font-size: 14px;
 }
 
-.confirm, #confirm-button {
+.confirm,
+#confirm-button {
   background-color: green;
   color: white;
   font-weight: bold;
-} 
+}
 
 .button {
   background-color: rgb(255, 255, 255);
@@ -33,9 +34,7 @@ body {
   font-size: 20px;
 }
 
-
-
-.text.child{
+.text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
@@ -47,22 +46,21 @@ div.text {
   font-weight: 100;
 }
 
-.box{
+.box {
   background-color: lightseagreen;
-  color:white;
+  color: white;
   font-size: 20px;
   /* font-weight: 800; */
   margin: 10px;
-  height:auto;
+  height: auto;
   /* display: flex; */
   /* justify-content: center; */
-  
 }
 
 .para1 {
-  color : maroon;
+  color: maroon;
   border: 3px solid black;
-  width:  100px;
+  width: 100px;
   height: 80px;
   text-align: center;
   margin: auto;

@@ -1,3 +1,9 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -49,21 +55,37 @@ div.text {
 .box {
   background-color: lightseagreen;
   color: white;
-  font-size: 20px;
+  font-size: 10px;
   /* font-weight: 800; */
   margin: 10px;
   height: auto;
   /* display: flex; */
   /* justify-content: center; */
+  position: relative;
 }
 
 .para1 {
   color: maroon;
   border: 3px solid black;
   width: 100px;
-  height: 80px;
+  height: 120px;
   text-align: center;
   margin: auto;
-  padding: 50px;
+  margin-bottom: 0px;
+  padding: 20px;
   display: inline-block;
+}
+
+.para3 {
+  /* position: relative; */
+  /* margin: 0px, 60px; */
+  margin: 0px 50px 75px 100px;
+  /* margin-top: 0px; */
+  color: maroon;
+  border: 3px solid black;
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  padding: 20px;
+  background-color: lightseagreen;
 }

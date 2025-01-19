@@ -55,6 +55,7 @@ a {
 
 .boxes {
   display: flex;
+  background-color: antiquewhite;
   /* flex-direction: column; */
   /* justify-content: space-between; */
   /* align-items: center; */
@@ -68,11 +69,13 @@ a {
 
 .card {
   border: 1px solid #eee;
-  box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.06);
+  box-shadow: 12px 4px 16px rgba(0, 0, 0, 0.06);
+  background-color: yellowgreen;
+
   border-radius: 4px;
-  width: 150px;
+  width: 250px;
   height: 220px;
   /* background-color: red; */
-  font-size: 10px;
+  font-size: 18px;
   padding: 20px;
 }
